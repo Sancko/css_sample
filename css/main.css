@@ -1,0 +1,15 @@
+ #exec_bio {
+        background-color: gray;
+      }
+ #exec_bio1 {
+        background-color: orange;
+      }
+ .BioBox {
+        border: 1px solid red;
+      }
+ .BioBox a {
+        color: yellow;
+      } 
+ .BioBox1 {
+        background-color: blue;
+      }
